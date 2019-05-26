@@ -576,9 +576,6 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 #scrollToTop a i:before {
   content: '';
   position: absolute;
@@ -1746,7 +1743,7 @@ body {
   color: #767676 !important;
 }
 .cid-rrzxmalPkn {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 135px;
   background-image: url("../../../assets/images/duckylanding1-1881x451.jpg");
 }
