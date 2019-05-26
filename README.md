@@ -1,0 +1,2 @@
+# ducky
+GitHub Pages
